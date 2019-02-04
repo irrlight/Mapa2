@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598741722484",
+    "firebase_url": "https://mapasemfronteiras.firebaseio.com",
+    "project_id": "mapasemfronteiras",
+    "storage_bucket": "mapasemfronteiras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598741722484:android:d42f8734418ce37f",
+        "android_client_info": {
+          "package_name": "com.example.vinicius.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598741722484-18vm2ump28klaomfnk2m5cvd91sf1bpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinicius.myapplication",
+            "certificate_hash": "d5d0a6ed88f7b1b72cfddfdca176afa9d1151414"
+          }
+        },
+        {
+          "client_id": "598741722484-msfafbv74fnlb0hb1ma87pcgllidmvl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqzjFRnd5fOEJyfLg5pyivQiCB8t4uHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598741722484-msfafbv74fnlb0hb1ma87pcgllidmvl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
